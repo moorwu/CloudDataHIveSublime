@@ -11,7 +11,7 @@ CloudDataHiveSublime 御膳房Hive的开发提速插件
 *注：此插件仅适用于sublime text 2 版本*
 
 # 安装前准备
-- 安装Chrome浏览
+- 安装Chrome浏览器
 - 下载对应操作系统版本的chromedriver 
 -- https://code.google.com/p/chromedriver/
 - 将chromedriver拷贝或者软链到默认系统path里（注意由于sublime启动插件的空间读取系统信息时无法读取后期加入的path，所以一定要放入系统默认的执行path下，比如/var/sbin 等），以便后期可以被正常调用到
